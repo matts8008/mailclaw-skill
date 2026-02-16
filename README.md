@@ -11,7 +11,7 @@ claude install-skill matts8008/mailclaw-skill
 ## Usage
 
 ```
-/openclaw send a letter to John Doe at 123 Main St, San Francisco CA 94107
+/openclaw send a certified letter to Gabe Newell at Valve HQ asking when Half-Life 3 is coming out
 ```
 
 Or just run `/openclaw` and it will walk you through it.

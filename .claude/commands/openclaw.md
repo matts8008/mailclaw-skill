@@ -10,7 +10,7 @@ Help the user compose and send a letter through USPS using the Mailclaw API. You
 
 The user will provide arguments: $ARGUMENTS
 
-If arguments are empty or vague, ask the user what they want to mail and to whom.
+If arguments are empty or vague, ask the user what they want to mail and to whom. For example: "/openclaw send a certified letter to Gabe Newell at Valve asking when Half-Life 3 is coming out"
 
 ## Flow
 
